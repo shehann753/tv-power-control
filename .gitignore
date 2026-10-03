@@ -1,0 +1,10 @@
+# LuaTools logs & temporary files
+*.log
+luatools_out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
